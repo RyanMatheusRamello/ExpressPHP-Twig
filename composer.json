@@ -1,4 +1,14 @@
 {
+	"name": "expressphp/twig",
+    	"description": "Template Engine twig para expressPHP",
+    	"type": "library",
+    	"license": "MIT",
+    	"authors": [
+        	{
+            		"name": "RyanMatheusRamello",
+            		"email": "ryan.matheus@aluno.ifsp.edu.br"
+        	}
+    	],
 	"autoload": {
 		"psr-4": {
 			"ExpressPHP\\TemplateEngine\\Twig\\": "src/"
